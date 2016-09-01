@@ -1,4 +1,26 @@
 
+var Total = React.createClass({
+	getTotal: function() {
+		var _total = 0;
+		this.props.items.map(function(item) {
+			_total += item.price * item.qty;
+		});
+		return Number(_total).toFixed(2);
+	},
+	render: function() {
+		return (
+			<tfoot>
+				<tr>
+					<td>Totalt:</td>
+					<td colSpan="4">
+						{this.getTotal()}
+					</td>
+				</tr>
+			</tfoot>
+		)
+	}
+});
+
 var AllItems = React.createClass({
 	buildRows: function() {
 		var rows = [];
@@ -27,7 +49,7 @@ var AllItems = React.createClass({
 });
 
 var ShoppingItem = React.createClass({
-	getTotal: function() {
+	getItemTotal: function() {
 		return Number(this.props.price * this.props.qty).toFixed(2);
 	},
 	render: function() {
@@ -40,7 +62,7 @@ var ShoppingItem = React.createClass({
 				<input id="number-stepper-value" step="1" name="" value={this.props.qty} min="0" max="100" role="alert" aria-live="assertive" pattern="[0-9]*" type="text" />
 				<button type={"button"} className={"btn btn-add"} onClick={this.props.onQtyChanged.bind(null, this.props.id, 'add')}>+</button>
 			</td>
-            <td>{this.getTotal()}</td>
+            <td>{this.getItemTotal()}</td>
 			<td>
 				<button type={"button"} onClick={this.props.onRemoveItem.bind(null, this.props.id)} >X</button>
 			</td>
@@ -96,7 +118,9 @@ var ShoppingBasket = React.createClass({
 			</tr>
 			</thead>
 				<AllItems items={this.state.items} onQtyChanged={this.handleQtyChanged} onRemoveItem={this.removeItem} />
+				<Total items={this.state.items} />
 			</table>
+
 		)
 	}
 });
