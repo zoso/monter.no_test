@@ -5,9 +5,14 @@ var AllItems = React.createClass({
 		var onQtyChanged = this.props.onQtyChanged;
 		var onRemoveItem = this.props.onRemoveItem;
 		var x = 0;
-		this.props.items.forEach(function(cartItem) {
+		// this.props.items.forEach(function(cartItem) {
+		// 	rows.push(<ShoppingItem key={cartItem.id} id={x} info={cartItem.info} price={cartItem.price} qty={cartItem.qty} onQtyChanged={onQtyChanged} onRemoveItem={onRemoveItem} />);
+		// 	x++;
+		// });
+
+		this.props.items.map(function(cartItem) {
 			rows.push(<ShoppingItem key={cartItem.id} id={x} info={cartItem.info} price={cartItem.price} qty={cartItem.qty} onQtyChanged={onQtyChanged} onRemoveItem={onRemoveItem} />);
-			x++;
+		  	x++;
 		});
 		return rows;
 	},
@@ -45,33 +50,33 @@ var ShoppingItem = React.createClass({
 });
 
 var ShoppingBasket = React.createClass({
-	loadData: function() {
-		$.ajax({
-		      url: this.props.url,
-		      dataType: 'json',
-		      cache: false,
-		      success: function(data) {
-		        this.setState({data});
-		      }.bind(this),
-		      error: function(xhr, status, err) {
-		        console.error(this.props.url, status, err.toString());
-		      }.bind(this)
-		    });
-	},
+	
 	getInitialState: function() {
-   		return {items};
+   		return {
+   			items: []
+   		};
   	},
   	componentDidMount: function() {
- 		this.loadData();
+ 		var _this = this;
+	    this.serverRequest = 
+	      axios
+	        .get(this.props.url)
+	        .then(function(result) {
+	        	console.log(result.data);    
+	          _this.setState({
+	            items: result.data
+	          });
+        })
   	},
   	handleQtyChanged: function(cartItemIndex, direction) {
   		console.log("handleQtyChanged ", cartItemIndex);
+	    var items = this.state.items;
 	    if (direction === 'add') {
-	      items[(cartItemIndex)].qty++;
+	      items[cartItemIndex].qty++;
 	    } else {
-	      items[(cartItemIndex)].qty--;
+	      items[cartItemIndex].qty--;
 	    }
-	    this.setState({data: items});
+	    this.setState({items});
 	},
 	removeItem: function(id) {
 		var items = this.state.items;

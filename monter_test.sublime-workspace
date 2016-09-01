@@ -4,381 +4,97 @@
 		"selected_items":
 		[
 			[
-				"re",
-				"removeUpdates"
+				"out",
+				"outline"
 			],
 			[
-				"onRemove",
-				"onRemoveItem"
+				"ser",
+				"serviceWorker"
 			],
 			[
-				"on",
-				"onClick"
+				"start",
+				"startFtp"
 			],
 			[
-				"fu",
-				"function"
+				"u",
+				"uploadInt"
 			],
 			[
-				"pr",
-				"products"
-			],
-			[
-				"con",
-				"concat"
-			],
-			[
-				"curr",
-				"currentLocation"
-			],
-			[
-				"text",
-				"text-decoration"
-			],
-			[
-				"ba",
-				"background-color"
-			],
-			[
-				"font-s",
-				"font-size"
-			],
-			[
-				"dis",
-				"dist_name"
-			],
-			[
-				"app",
-				"app_jsx"
-			],
-			[
-				"HTMLWE",
-				"HtmlWebpackPluginConfig"
-			],
-			[
-				"mini",
-				"miniCartContent"
-			],
-			[
-				"col",
-				"column"
-			],
-			[
-				"back",
-				"background-position"
-			],
-			[
-				"to",
-				"toggleDropDown"
-			],
-			[
-				"Men",
-				"MenuItem"
-			],
-			[
-				"Rea",
-				"React"
-			],
-			[
-				"pad",
-				"padding"
-			],
-			[
-				"bac",
-				"background-color"
-			],
-			[
-				"p",
-				"PORT"
-			],
-			[
-				"new",
-				"newUsers"
-			],
-			[
-				"com",
-				"component"
-			],
-			[
-				"local",
-				"localHandleClick"
-			],
-			[
-				"mar",
-				"margin-top"
-			],
-			[
-				"font-",
-				"font-weight"
-			],
-			[
-				"bacr",
-				"background-repeat"
-			],
-			[
-				"bar",
-				"background-color"
-			],
-			[
-				"ecom",
-				"ecomUrl"
-			],
-			[
-				"se",
-				"searchForm"
-			],
-			[
-				"base",
-				"baseUrl"
-			],
-			[
-				"sear",
-				"searchForm"
-			],
-			[
-				"key",
-				"keyup"
-			],
-			[
-				"sea",
-				"searchname"
-			],
-			[
-				"margo",
-				"margin-top"
-			],
-			[
-				"item",
-				"itemCount"
-			],
-			[
-				"ite",
-				"itemCount"
-			],
-			[
-				"cons",
-				"constructor"
-			],
-			[
-				"coo",
-				"cookieName"
-			],
-			[
-				"get",
-				"getShoppingBasket"
-			],
-			[
-				"c",
-				"currentCompanyID"
-			],
-			[
-				"close",
-				"closeBtn"
-			],
-			[
-				"A",
-				"APP_SETTINGS"
+				"uo",
+				"uploadFile"
 			],
 			[
 				"type",
 				"typeahead"
 			],
 			[
-				"a",
-				"asyncResults"
-			],
-			[
-				"pro",
-				"process"
-			],
-			[
-				"query",
-				"query_str"
-			],
-			[
-				"bread",
-				"breadcrumbElement"
-			],
-			[
-				"cl",
-				"closestBody"
-			],
-			[
-				"ex",
-				"expandBody"
-			],
-			[
-				"e",
-				"expandBody"
-			],
-			[
-				"max",
-				"max-height"
-			],
-			[
-				"list",
-				"list-style-type"
-			],
-			[
-				"marg",
-				"margin"
-			],
-			[
-				"padd",
-				"padding"
-			],
-			[
-				"backg",
-				"background-size"
-			],
-			[
-				"border",
-				"border-bottom"
-			],
-			[
-				"margin",
-				"margin-bottom"
-			],
-			[
-				"rg",
-				"rgba()"
-			],
-			[
-				"inline",
-				"inline-block"
-			],
-			[
-				"in",
-				"inline-block"
-			],
-			[
-				"bacu",
-				"background"
-			],
-			[
-				"searc",
-				"searchBox"
-			],
-			[
-				"tab",
-				"table-cell"
-			],
-			[
-				"eas",
-				"easing"
-			],
-			[
-				"b",
-				"bold"
-			],
-			[
-				"inle",
-				"inline-block"
-			],
-			[
 				"di",
-				"display"
+				"diff_min"
 			],
 			[
-				"co",
-				"column"
+				"diff_",
+				"diff_hours"
+			],
+			[
+				"pos",
+				"position"
 			],
 			[
 				"wid",
 				"width"
 			],
 			[
-				"serv",
-				"serviceMenu"
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-left"
 			],
 			[
 				"list-s",
 				"list-style"
 			],
 			[
-				"container-xs",
-				"container-xs-em"
+				"font-",
+				"font-family"
 			],
 			[
-				"mo",
-				"moduleB"
+				"con",
+				"config"
 			],
 			[
-				"modu",
-				"moduleA"
+				"he",
+				"height"
 			],
 			[
-				"trans",
-				"transparent"
+				"flex",
+				"flex-end"
 			],
 			[
-				"bo",
-				"border-bottom-style"
+				"side",
+				"side-bar-logout"
 			],
 			[
-				"inl",
-				"inline-block"
+				"side-b",
+				"side-bar-list"
 			],
 			[
-				"bt",
-				"btn-menu"
+				"ba",
+				"background-color"
 			],
 			[
-				"style",
-				"styleguide"
-			],
-			[
-				"bro",
-				"browserSync"
-			],
-			[
-				"wat",
-				"watchers"
+				"dis",
+				"display"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 4210,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Scripts/shoppingBasket.js",
-			"settings":
-			{
-				"buffer_size": 2761,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Scripts/dropdownNav.js",
-			"settings":
-			{
-				"buffer_size": 1285,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Styles/global/base.scss",
-			"settings":
-			{
-				"buffer_size": 1654,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Scripts/basket.json",
-			"settings":
-			{
-				"buffer_size": 400,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -387,15 +103,7 @@
 		"selected_items":
 		[
 			[
-				"install ",
-				"Package Control: Install Package"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"instal",
+				"ins",
 				"Package Control: Install Package"
 			],
 			[
@@ -403,11 +111,11 @@
 				"Package Control: Install Package"
 			],
 			[
-				"inst",
+				"instal",
 				"Package Control: Install Package"
 			]
 		],
-		"width": 400.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -424,160 +132,60 @@
 	},
 	"file_history":
 	[
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/.gitignore",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/Scripts/search.js",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/Scripts/global/typeahead.js",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/Scripts/global/typeahead.bundle.js",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Views/Shared/_PageHeader.cshtml",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Views/Shared/_MainMenu.cshtml",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Views/Shared/_InforHeaderSection.cshtml",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Views/Shared/_Header.cshtml",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/Styles/global/typography/typography.scss",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/Styles/global/base.scss",
-		"/C/Users/L4573888/Documents/GitHub/js modules test/package.json",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/Styles/global/elements/quick-search.scss",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/Styles/global/modules/choose-store.scss",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/Styles/global/vars.scss",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/Styles/global/modules/shopping-cart-mini.scss",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/Styles/global/modules/quick-search.scss",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/UI/Ikoner/search-white.svg",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/readme.md",
-		"/C/Users/L4573888/Documents/GitHub/js modules test/index.html",
-		"/C/Users/L4573888/Documents/GitHub/js modules test/Scripts/apps/app2.jsx",
-		"/C/Users/L4573888/Documents/GitHub/js modules test/Scripts/apps/app.jsx",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/index.html",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/webpack.config.js",
-		"/C/Users/L4573888/Documents/GitHub/js modules test/gulpfile.js",
-		"/C/Users/L4573888/Documents/GitHub/js modules test/Scripts/apps/app.js",
-		"/C/Users/L4573888/Documents/GitHub/js modules test/dist/bundle.js",
-		"/C/Users/L4573888/Documents/GitHub/js modules test/bundle.js",
-		"/C/Users/L4573888/Documents/GitHub/js modules test/bunfedle.js",
-		"/C/Users/L4573888/Documents/GitHub/js modules test/sbundle.js",
-		"/C/Users/L4573888/Documents/GitHub/es6-react-boilerplate/gulpfile.js",
-		"/C/Users/L4573888/Documents/GitHub/es6-react-boilerplate/package.json",
-		"/C/Users/L4573888/Documents/GitHub/es6-react-boilerplate/web/js/bundle.js",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/Styles/global/elements/forms.scss",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/Styles/global/sections/page-header.scss",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/Styles/global/grid.scss",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/Styles/global/modules/banner.scss",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/Styles/global/modules/product-category.scss",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/Scripts/global/Monter.MiniCart.js",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/Scripts/dropdownNav.js",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/package.json",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/Scripts/apps/test/index.js",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/webpack.config.js",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/.babelrc",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/fonts/stylesheet.css",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/src/Web/Styles/global/mixins.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Core/Initializers/BundleConfig.cs",
-		"/C/tmp/icon_clock.svg",
-		"/C/tmp/icon_checked.svg",
-		"/C/tmp/icon_cancel.svg",
-		"/C/tmp/icon_attention.svg",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.Monitoring.Dashboard-New/package.json",
-		"/C/Users/L4573888/Documents/GitHub/test_monitor/js/monitor.js",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/Styles/global/sections/page-footer.scss",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/gulpfile.js",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/Styles/global/scaffold.scss",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/Styles/global/typography/typography.scss",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/Styles/global/vars.scss",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/Styles/global/base.scss",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/Styles/global/sections/page-header.scss",
-		"/C/Users/L4573888/Downloads/1469531085_icon-111-search.svg",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/gulpfile.js",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/Styles/global/grid.scss",
-		"/C/Users/L4573888/Documents/GitHub/Layout_v2/index.html",
-		"/C/Users/L4573888/Documents/GitHub/Layout_v2/gulpfile.js",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Views/_Skeleton.cshtml",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/Styles/scaffold.scss",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/Styles/global/sections/page-navigation.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/.gitignore",
-		"/C/Users/L4573888/Documents/GitHub/Monter.no/.gitignore",
-		"/C/Users/L4573888/Documents/GitHub/test_monitor/index.html",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/Styles/global/debug.scss",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/Styles/global/mixins.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Styles/settings.scss",
-		"/C/Users/L4573888/Documents/GitHub/test_monitor/server.js",
-		"/C/Users/L4573888/Documents/Optimera.Monitoring.Dashboard/app/shared/constants/Config.js",
-		"/C/Users/L4573888/Documents/Optimera.Monitoring.Dashboard/app/shared/api/chartData.js",
-		"/C/Users/L4573888/Documents/Optimera.Monitoring.Dashboard/app/shared/constants/Api.js",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Scripts/global/Optimera.ShoppingBasket.js",
-		"/C/Users/L4573888/Documents/Optimera.Monitoring.Dashboard/app/shared/api/archive.js",
-		"/C/Users/L4573888/Documents/Optimera.Monitoring.Dashboard/app/screens/App/screens/Dashboard/components/ServerStats/index.js",
-		"/C/Users/L4573888/Documents/Optimera.Monitoring.Dashboard/app/screens/App/screens/Dashboard/components/NewCalculations/index.js",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Styles/global/grid.scss",
-		"/C/Users/L4573888/Documents/GitHub/monter.no init/Styles/dist/base.css",
-		"/C/Windows/System32/drivers/etc/hosts",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Scripts/global/Optimera.Search.js",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Scripts/global/Optimera.News.js",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Scripts/global/Optimera.Menu.js",
-		"/C/Users/L4573888/Documents/Optimera.Monitoring.Dashboard/app/screens/App/screens/Dashboard/components/NewCalculations/calculationStore.js",
-		"/C/Users/L4573888/Documents/Optimera.Monitoring.Dashboard/app/screens/App/screens/Dashboard/index.js",
-		"/C/Users/L4573888/Documents/Optimera.Monitoring.Dashboard/app/screens/App/components/Sidebar/index.js",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Styles/global/elements/dashboard-box.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Styles/global/layout/layout.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Styles/global/elements/search-box.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Styles/global/elements/buttons.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Styles/global/layout/mo-menu.scss",
-		"/C/Users/L4573888/Documents/Optimera.Monitoring.Dashboard/package.json",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Styles/global/modules/sections.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/modules/sections.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/base.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.no/src/Web/Styles/global/elements/lists.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/elements/dashboard-box.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/pages/dashboard-page.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/scaffolding.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/elements/user-guide.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/elements/buttons.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/teasers/teaser.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/layout/layout.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Scripts/angularAppPage/app-modal-carousel.js",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/modules/search-form.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Scripts/global/Optimera.Search.js",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/typography.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/mixins.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/grid.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/elements/news-menu.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/teasers/person-teaser.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/teasers/article-teaser.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/app_overrides.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Scripts/global/Optimera.Menu.js",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/layout/mo-menu.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Scripts/global/Optimera.ShoppingBasket.js",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/Styles/global/icons.scss",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/UI/Icons/lock.min.svg",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/UI/Icons/find.min.svg",
-		"/C/Users/L4573888/Downloads/find.min.svg",
-		"/C/Users/L4573888/Downloads/lock.min.svg",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/UI/Icons/quotes-left.svg",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/UI/Icons/envelope.svg",
-		"/C/Users/L4573888/Documents/GitHub/Optimera.MinOptimera.CMS-V2/src/Web/UI/Icons/search.svg"
+		"/Users/Lars/Documents/monter.no_test/monter_test.sublime-project",
+		"/Users/Lars/Documents/monter.no/webpack.config.js",
+		"/Users/Lars/Documents/monter.no/app/app.js",
+		"/Users/Lars/Documents/Optimera/package.json",
+		"/Users/Lars/Documents/monter.no/index.js",
+		"/Users/Lars/Documents/monter.no/package.json",
+		"/Users/Lars/Documents/monter.no/index.html",
+		"/Users/Lars/Documents/zoso.github.io/js/service-worker.js",
+		"/Users/Lars/Documents/pi_dev/node_ftp/foo.txt",
+		"/Users/Lars/Documents/kss/index.html",
+		"/Users/Lars/Documents/Optimera/index.html",
+		"/Users/Lars/Documents/Optimera/affix.html",
+		"/Users/Lars/Documents/Optimera/gulpfile.js",
+		"/Users/Lars/Documents/Optimera/Styles/scaffolding.scss",
+		"/Users/Lars/Documents/Optimera/Styles/base.scss",
+		"/Users/Lars/Documents/Optimera/Styles/flex.scss",
+		"/Users/Lars/Dropbox/work epinova/Optimera/flex.html",
+		"/Users/Lars/Dropbox/work epinova/Fagmøte 02.05.2016/notater.txt",
+		"/Users/Lars/Documents/pi_dev/python_apps/timelapse/camera.sh",
+		"/Users/Lars/Documents/pi_dev/node_stepper/app.js",
+		"/Users/Lars/Documents/pi_dev/node_stepper/index.html",
+		"/Users/Lars/Documents/pi_dev/node_hello/app.js",
+		"/Users/Lars/Documents/pi_dev/node_hello/index.html",
+		"/Users/Lars/Documents/pi_dev/node_stepper/stepper.py",
+		"/Users/Lars/Documents/pi_dev/node_stepper/package.json",
+		"/Users/Lars/Documents/pi_dev/node_livestream/index.js",
+		"/Users/Lars/Documents/pi_dev/node_livestream/index.html",
+		"/Users/Lars/Documents/gulp_project/package.json",
+		"/Users/Lars/Documents/webpack/entry.js",
+		"/Users/Lars/Documents/typescript/index.html",
+		"/Users/Lars/Documents/typescript/greeter.ts",
+		"/Users/Lars/Documents/typescript/greeter.js",
+		"/Users/Lars/Documents/webpack/style.css",
+		"/Users/Lars/Documents/kss/gulpfile.js",
+		"/Users/Lars/Documents/kss/Styles/main.less",
+		"/Users/Lars/Documents/My Site/plugins/default.py",
+		"/Users/Lars/Documents/My Site/plugins/__init__.py",
+		"/Users/Lars/Dropbox/Felles ting/Oppussing/Bad.txt",
+		"/Users/Lars/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Lars/Dropbox/Felles ting/Epinova-tur 2015/edinburgh.txt",
+		"/Users/Lars/Dropbox/work epinova/Selvaag/oppsummering_timer.txt",
+		"/Users/Lars/Viivo/Julegaver.txt",
+		"/Users/Lars/Dropbox/work epinova/Timer.txt",
+		"/Users/Lars/Dropbox/Private_encrypted/Epinova/Forsikringer/forsikringer.txt"
 	],
 	"find":
 	{
-		"height": 48.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
 		"height": 0.0,
 		"where_history":
 		[
-			"C:\\Users\\L4573888\\Documents\\GitHub\\Optimera.MinOptimera.CMS-V2\\src\\Web\\Scripts\\Optimera.Frontend",
-			"C:\\Users\\L4573888\\Documents\\GitHub\\Optimera.MinOptimera.CMS-V2\\src\\Web\\Scripts\\Optimera.Frontend\\app\\scripts\\modules",
-			"C:\\Users\\L4573888\\Documents\\GitHub\\Optimera.MinOptimera.CMS-V2\\src\\Web\\Scripts\\Optimera.Frontend",
-			"C:\\Users\\L4573888\\Documents\\GitHub\\Optimera.MinOptimera.CMS-V2\\src\\Web\\Scripts\\Optimera.Frontend\\app\\scripts\\modules",
-			"C:\\Users\\L4573888\\Documents\\GitHub\\Optimera.MinOptimera.CMS-V2\\src\\Web\\Scripts\\Optimera.Frontend\\app",
-			"C:\\Users\\L4573888\\Documents\\GitHub\\Optimera.MinOptimera.CMS-V2\\src\\Web\\Styles",
-			"C:\\Users\\L4573888\\Documents\\GitHub\\Optimera.CMS",
-			"C:\\Users\\L4573888\\Documents\\GitHub\\Optimera.MinOptimera.CMS-V2\\src\\Web\\Scripts\\Optimera.Frontend",
-			"C:\\Users\\L4573888\\Documents\\GitHub\\Optimera.MinOptimera.CMS\\wwwroot\\Static\\Optimera.Frontend\\app\\styles",
-			"C:\\Users\\L4573888\\Documents\\GitHub\\Optimera.MinOptimera.CMS\\wwwroot\\Static\\Optimera.Frontend\\app",
-			"C:\\Users\\L4573888\\Documents\\GitHub\\bootstrap-sass-3.3.6\\assets\\stylesheets\\bootstrap",
-			"C:\\Users\\L4573888\\Documents\\GitHub\\Optimera.MinOptimera.CMS\\wwwroot\\Static\\Optimera.Frontend\\app\\styles",
-			"C:\\Users\\L4573888\\Documents\\GitHub\\Optimera.MinOptimera.CMS\\wwwroot\\Static\\Optimera.Frontend",
-			"C:\\Users\\L4573888\\Documents\\GitHub\\bootstrap-sass-3.3.6\\assets\\stylesheets",
-			"C:\\Users\\L4573888\\Documents\\GitHub\\Optimera.MinOptimera.CMS\\wwwroot\\Static\\Optimera.Frontend",
-			""
 		]
 	},
 	"find_state":
@@ -585,113 +193,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"'",
-			"qty",
-			"price",
-			"info",
-			"id",
-			"cartItems",
-			"calculation",
-			"docume",
-			"payment",
-			"000000",
-			"255",
-			"20px",
-			"no-pad",
-			"margin",
-			"dash",
-			"max-height",
-			"focus",
-			"max-height",
-			"max-he",
-			"max",
-			"focus",
-			"shopping",
-			"search",
-			"is-open",
-			"box-",
-			"is-open",
-			"Carousel",
-			"modal",
-			"modal fade",
-			"helpModal",
-			"openModal",
-			"darken",
-			"teaser-img-height-lg",
-			"localStorageService",
-			"getShoppingBasket",
-			"EComService",
-			"search-form",
-			"searchForm",
-			"searchFormArea",
-			"app.search.products",
-			"SearchAutoCompleteContainer",
-			"searchFormArea",
-			"skratch",
-			"typeahead",
-			"setBreadcrumb",
-			"breadcrumb",
-			"#E5E3DC",
-			"231F20",
-			"collapsed",
-			"col-sm-4",
-			"0.6",
-			"-15",
-			"justify",
-			"name",
-			"$menu-width",
-			"menu-width",
-			"main-red",
-			"main-dark",
-			"main-service",
-			"#232323",
-			"360",
-			"heading",
-			"0 - 15",
-			"#121212",
-			"-logo",
-			"screen",
-			"@",
-			"dist",
-			";\n",
-			"$main-red",
-			"$grid-gutter-width",
-			"webstandards",
-			"\n.input-group {",
-			";\n",
-			"default",
-			"5px",
-			"left",
-			"col-4",
-			"imgSection",
-			";\n",
-			"contactform",
-			"modulesevent",
-			"#",
-			"$scope",
-			"$optimera-dark",
-			"icons",
-			".NavSiteList",
-			".NavSiteList-anchor",
-			"hidden-xs",
-			"logo",
-			"activeIndex",
-			"carousel",
-			"input-group-btn",
-			"compass",
-			"optimera@",
-			"*@*",
-			"email",
-			"postal",
-			"uiview",
-			"ui-view",
-			"loaders",
-			"contentContainer",
-			"uiview",
-			"ui-view",
-			"button-profile"
+			"addListener",
+			"container",
+			"sideBar",
+			"fredag"
 		],
-		"highlight": false,
+		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
@@ -702,149 +209,13 @@
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
-		"wrap": false
+		"wrap": true
 	},
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 4210,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3742,
-								3837
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1767.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Scripts/shoppingBasket.js",
-					"settings":
-					{
-						"buffer_size": 2761,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1540,
-								1540
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 780.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "Scripts/dropdownNav.js",
-					"settings":
-					{
-						"buffer_size": 1285,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								495,
-								495
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 114.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "Styles/global/base.scss",
-					"settings":
-					{
-						"buffer_size": 1654,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1088,
-								1088
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1069.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "Scripts/basket.json",
-					"settings":
-					{
-						"buffer_size": 400,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								400
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -854,7 +225,7 @@
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 29.0
 	},
 	"layout":
 	{
@@ -885,7 +256,7 @@
 	},
 	"replace":
 	{
-		"height": 0.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -908,6 +279,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 236.0,
+	"side_bar_width": 150.0,
 	"status_bar_visible": true
 }
