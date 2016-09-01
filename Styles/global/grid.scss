@@ -1,0 +1,48 @@
+
+.container {
+	@include container-fixed;
+	@media (min-width: $screen-sm-min) {
+		width: $container-sm;
+	}
+	@media (min-width: $screen-md-min) {
+		width: $container-md;
+	}
+	@media (min-width: $screen-lg-min) {
+		width: $container-lg;
+	}
+	&-fluid {
+		@include container-fixed;
+	}
+}
+
+.row {
+	@include make-row;
+}
+
+.col-sm-12 {
+	@include make-sm-column(12);
+}
+
+.col-sm-10 {
+	@include make-sm-column(10);
+}
+
+.col-sm-8 {
+	@include make-sm-column(8);
+}
+
+.col-sm-4 {
+	@include make-sm-column(4);
+}
+
+.col-sm-2 {
+	@include make-sm-column(2);
+}
+
+.col-sm-offset-4 {
+	@include make-sm-column-offset(4);
+}
+
+.col-sm-offset-8 {
+	@include make-sm-column-offset(8);
+}

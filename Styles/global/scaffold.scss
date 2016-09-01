@@ -1,0 +1,32 @@
+/* main file for importing scss files */
+
+//Variables and mixins
+@import 'vars';
+@import 'mixins';
+
+//Reset and dependencies
+@import 'normalize';
+
+//Core Css / general 
+@import 'base';
+@import 'grid';
+@import 'typography/fonts';
+@import 'typography/typography';
+
+//sections
+@import 'sections/page-header.scss';
+@import 'sections/page-footer.scss';
+@import 'sections/page-navigation.scss';
+
+//debug
+@import 'debug';
+
+//episerver
+@import 'epi-login';
+
+
+//Pages
+
+//Modules
+
+//Utils

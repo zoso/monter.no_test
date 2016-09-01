@@ -1,0 +1,7 @@
+﻿.fileIcon { width: 32px;height: 32px;margin: 5px !important; }
+.pdfIcon { background-image: url(/UI/Icons/pdfIcon32.png); }
+
+.epi-content-area-editor .fileIcon { width: 16px;height: 16px; margin: 0 2px 0 0 !important; }
+.epi-content-area-editor .pdfIcon { background-image: url(/UI/Icons/pdfIcon16.png); }
+
+.dijitTreeRow .fileIcon { margin-top: 6px !important; }

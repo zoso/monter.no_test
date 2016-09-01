@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Montér.no</title>
+	<link rel="stylesheet" href="Styles/dist/base.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	<link rel="stylesheet" href="Scripts/jquery.typeahead.min.css">
+</head>
+<body>
+	<h1 class="visuallyhidden">montér.no</h1>
+	<header class="page-header">
+		<div class="page-header-top">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4">
+						velg varehus
+					</div>
+					<div class="col-sm-4 col-sm-offset-4">
+						<nav class="customer-menu">
+							<ul>
+								<li>
+									Logg inn
+								</li>
+								<li>
+									Kundeservice
+								</li>
+							</ul>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="page-header-main">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-2">
+						<a class="page-header-logo" href="/">
+							<img src="UI/monter_logo.png" alt="Monter">
+						</a>
+					</div>
+					<div class="col-sm-10">
+						<div class="row">
+							<div class="col-sm-4">
+								
+								<form>
+								    <div class="typeahead__container">
+								        <div class="typeahead__field">
+								 
+								            <span class="typeahead__query">
+								                <input id="typeahead" 
+								                	   class="js-typeahead"
+								                       name="q"
+								                       type="search"
+								                       autocomplete="off">
+								            </span>
+								            <span class="typeahead__button">
+								                <button type="submit">
+								                    <span class="typeahead__search-icon"></span>
+								                </button>
+								            </span>
+								 
+								        </div>
+								    </div>
+								</form>
+
+
+							</div>
+							<div class="col-sm-4">menu</div>
+							<div class="col-sm-4">shopping</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	<nav class="page-navigation">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<div id="main-nav"></div>
+				
+				</div>
+			</div>
+		</div>
+	</nav>
+	<!-- <nav class="breadCrumb">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<ol>
+						<li><a href="#">Start</a></li>
+					</ol>
+				</div>
+			</div>
+		</div>
+	</nav> -->
+	<main class="page-content">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<h2 class="h2">Lorem</h2>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus quo, necessitatibus illo tempore perspiciatis assumenda officiis enim aut adipisci, natus itaque deserunt cumque. Ipsam atque harum quaerat cumque dolorum ea.
+					<h3 class="h3">
+						h3 heading
+					</h3>
+				</div>
+				<div class="col-sm-12">
+					<h2 class="h2">Shopping basket</h2>
+					<div class="" id="shoppingBasket"></div>
+				</div>
+			</div>
+		</div>
+	</main>
+	<footer class="page-footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					footer
+				</div>
+			</div>
+		</div>
+	</footer>
+	<script src="https://code.jquery.com/jquery-3.1.0.slim.min.js" integrity="sha256-cRpWjoSOw5KcyIOaZNo4i6fZ9tKPhYYb6i5T9RSVJG8=" crossorigin="anonymous"></script>
+	<!-- <script src="https://fb.me/react-15.1.0.js"></script>
+	<script src="https://fb.me/react-dom-15.1.0.js"></script> -->
+	<script src="https://npmcdn.com/react@15.3.1/dist/react.min.js"></script>
+	<script src="https://npmcdn.com/react-dom@15.3.1/dist/react-dom.min.js"></script>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.34/browser.min.js"></script>
+	<script type="text/babel" src="Scripts/dropdownNav.js"></script>
+	<script type="text/babel" src="Scripts/shoppingBasket.js"></script>
+	<!-- <script src="Scripts/global/typeahead.bundle.js"></script>
+	<script src="Scripts/global/typeahead.js"></script> -->
+	<script src="Scripts/jquery.typeahead.min.js"></script>
+	<script src="Scripts/search,js"></script>
+</body>
+</html>

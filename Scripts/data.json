@@ -1,0 +1,136 @@
+{
+
+    "Name": [
+        {
+            "length": 6,
+            "offset": 0,
+            "text": "spiker",
+            "options": [
+                {
+                    "freq": null,
+                    "score": 1.0,
+                    "text": "Spikerpistol Dykkert Nd16/50 Niko",
+                    "highlighted": null
+                },
+                {
+                    "freq": null,
+                    "score": 1.0,
+                    "text": "Spikerpistol Krampe K-540 Niko",
+                    "highlighted": null
+                },
+                {
+                    "freq": null,
+                    "score": 1.0,
+                    "text": "Spikerpistol Krampe K-9040 Niko",
+                    "highlighted": null
+                },
+                {
+                    "freq": null,
+                    "score": 1.0,
+                    "text": "Spikerpistol Stav 21Gr N21/90 Niko",
+                    "highlighted": null
+                }
+            ]
+        }
+    ],
+    "FuzzyName": [
+        {
+            "length": 6,
+            "offset": 0,
+            "text": "spiker",
+            "options": [
+                {
+                    "freq": null,
+                    "score": 1.0,
+                    "text": "Spikerpistol Dykkert Nd16/50 Niko",
+                    "highlighted": null
+                },
+                {
+                    "freq": null,
+                    "score": 1.0,
+                    "text": "Spikerpistol Krampe K-540 Niko",
+                    "highlighted": null
+                },
+                {
+                    "freq": null,
+                    "score": 1.0,
+                    "text": "Spikerpistol Krampe K-9040 Niko",
+                    "highlighted": null
+                },
+                {
+                    "freq": null,
+                    "score": 1.0,
+                    "text": "Spikerpistol Stav 21Gr N21/90 Niko",
+                    "highlighted": null
+                }
+            ]
+        }
+    ],
+    "Products": [
+        {
+            "Code": "83072",
+            "Name": "Spikerpistol Stav 21Gr N21/90 Niko",
+            "Image": "https://monterecomtest.optimera.no:44341/globalassets/inriver/resources/83610201---n21_90.jpg",
+            "Url": "https://monterecomtest.optimera.no:44341/hus-og-bygg/greier/spikerpistol-stav-21gr-n2190-niko/"
+        },
+        {
+            "Code": "83078",
+            "Name": "Spikerpistol Krampe K-9040 Niko",
+            "Image": "https://monterecomtest.optimera.no:44341/globalassets/inriver/resources/83610103---k-9040-ls.jpg",
+            "Url": "https://monterecomtest.optimera.no:44341/hus-og-bygg/greier/spikerpistol-krampe-k-9040-niko/"
+        },
+        {
+            "Code": "83071",
+            "Name": "Spikerpistol Dykkert Nd16/50 Niko",
+            "Image": "https://monterecomtest.optimera.no:44341/globalassets/inriver/resources/83610050---nd16_50.jpg",
+            "Url": "https://monterecomtest.optimera.no:44341/hus-og-bygg/greier/spikerpistol-dykkert-nd1650-niko/"
+        },
+        {
+            "Code": "83070",
+            "Name": "Spikerpistol Krampe K-540 Niko",
+            "Image": "https://monterecomtest.optimera.no:44341/globalassets/inriver/resources/83610102---k-540.jpg",
+            "Url": "https://monterecomtest.optimera.no:44341/hus-og-bygg/greier/spikerpistol-krampe-k-540-niko/"
+        },
+        {
+            "Code": "27504",
+            "Name": "DRILL SKRUTREKKER 12V EPC12CA",
+            "Image": "https://monterecomtest.optimera.no:44341/globalassets/inriver/resources/pb-epc12ca.jpg",
+            "Url": "https://monterecomtest.optimera.no:44341/hus-og-bygg/verktoy/drill-skrutrekker-12v-epc12ca/"
+        }
+    ],
+    "MainCategories": {
+        "DocCountErrorUpperBound": 0,
+        "SumOtherDocCount": 0,
+        "Buckets": [
+            {
+                "Key": "1073741894",
+                "KeyAsString": null,
+                "DocCount": 5,
+                "Aggregations": null
+            }
+        ],
+        "Meta": null,
+        "Aggregations": null
+    },
+    "SubCategories": {
+        "DocCountErrorUpperBound": 0,
+        "SumOtherDocCount": 0,
+        "Buckets": [
+            {
+                "Key": "1073741897",
+                "KeyAsString": null,
+                "DocCount": 4,
+                "Aggregations": null
+            },
+            {
+                "Key": "1073741895",
+                "KeyAsString": null,
+                "DocCount": 1,
+                "Aggregations": null
+            }
+        ],
+        "Meta": null,
+        "Aggregations": null
+    }
+
+}

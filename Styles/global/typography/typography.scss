@@ -1,0 +1,43 @@
+// <reference path="../vars.scss" />
+$h1-font-sizes: (
+    null: 24,
+    $screen-sm-min: 32,
+    $screen-md-min: 40,
+    $screen-lg-min: 48
+);
+
+$h2-font-sizes: (
+    null: 20,
+    $screen-sm-min: 28,
+    $screen-md-min: 36,
+    $screen-lg-min: 42
+);
+
+$h3-font-sizes: (
+    null: 18,
+    $screen-sm-min: 24,
+    $screen-md-min: 32,
+    $screen-lg-min: 36
+);
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+    font-family: 'FolioCon-Bol', Verdana;
+}
+
+h1, .h1 {
+	@include font-sizer($h1-font-sizes);
+}
+
+h2, .h2 {
+	@include font-sizer($h2-font-sizes);
+}
+
+h3, .h3 {
+	@include font-sizer($h3-font-sizes);
+}

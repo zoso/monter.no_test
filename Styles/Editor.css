@@ -1,0 +1,21 @@
+﻿p {
+    border: dotted 1px #ccc;
+}
+
+h2 {
+    EditMenuTitle: Overskriftsstiler;
+    EditMenuName: Overskrift 2;
+}
+
+h3 {
+    EditMenuName: Overskrift 3;
+}
+
+h4 {
+    EditMenuName: Overskrift 4;
+}
+
+blockquote {
+    EditMenuTitle: Andre stiler;
+    EditMenuName: Sitat;
+}

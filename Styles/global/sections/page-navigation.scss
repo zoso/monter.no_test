@@ -1,0 +1,33 @@
+.page-navigation {
+	&-list {
+		list-style-type: none;
+		margin: 1em 0;
+		padding: 0;
+		
+		@supports (display: flex) {
+			display: flex;
+			flex-flow: row wrap;
+		}
+	}
+	&-item {
+		float: left;
+		@supports (display: flex) {
+			float: none;
+			flex: 0 1 auto;
+			margin: 0;
+		}
+
+		a {
+			padding: 5px;
+		}
+	}
+	&-dropdown {
+		display: none;
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		&.is-open {
+			display: block;
+		}
+	}
+}

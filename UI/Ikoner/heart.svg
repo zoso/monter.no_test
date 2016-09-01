@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Designsystem---Moduler" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="---Ikoner" transform="translate(-130.000000, -78.000000)" stroke="#000000" stroke-width="1.71428571">
+            <path d="M148,84.8842116 C148,85.9108621 147.639626,86.9102564 146.983123,87.6966485 L140.465274,95.2496467 C140.32775,95.409146 140.129996,95.5 139.920196,95.5 L139.91618,95.5 C139.704373,95.497981 139.505615,95.4040985 139.370099,95.2425803 L132.888387,87.5371492 C132.879353,87.5260448 132.870318,87.5129215 132.861284,87.5018171 C132.297133,86.7416717 132,85.8351504 132,84.8842116 C132,82.4674944 133.956459,80.5 136.360625,80.5 C137.810151,80.5 139.166322,81.2106804 139.998494,82.3110236 C140.831671,81.2106804 142.188845,80.5 143.639375,80.5 C146.043541,80.5 148,82.4674944 148,84.8842116 L148,84.8842116 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

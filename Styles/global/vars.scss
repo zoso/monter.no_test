@@ -1,0 +1,54 @@
+// Variables
+$base: 16;
+
+//Colors
+$monter-base: #000;
+$monter-yellow: #FFF1B9;
+$monter-red: #E30613;
+$monter-dark: #2E2D2C;
+$monter-dark-blue: #0A141E;
+
+//other colors
+$monter-success: #5cb85c !default;
+$monter-info: #5bc0de !default;
+$monter-warning: #f0ad4e !default;
+$monter-danger: #d9534f !default;
+
+//Default settings
+$body-bg: #fff !default;
+$text-color: $monter-dark !default;
+$link-color: $monter-red !default;
+$link-hover-color: darken($monter-red, 20%) !default;
+
+//Typography
+$font-family: 'Folio-Lig', Helvetica, Arial, sans-serif !default;
+$font-size-base: 16px !default;
+$line-height-base: 1.428571429 !default;
+
+//Z-indexs
+$zindex-modal: 1050;
+
+//Media queries
+$screen-xs-em: (480/$base)*1em;
+$screen-sm-em: (768/$base)*1em;
+$screen-md-em: (992/$base)*1em;
+$screen-lg-em: (1200/$base)*1em;
+$screen-xl-em: (1420/$base)*1em;
+
+$screen-xs-min: $screen-xs-em;
+$screen-sm-min: $screen-sm-em;
+$screen-md-min: $screen-md-em;
+$screen-lg-min: $screen-lg-em;
+$screen-xl-min: $screen-xl-em;
+
+$grid-columns: 12 !default;
+$grid-gutter-width: (($base*2)/$base)*1em !default;
+$grid-float-breakpoint: $screen-sm-min !default;
+
+//Containers
+$screen-sm-container: ((720/$base)*1em + $grid-gutter-width);
+$container-sm: $screen-sm-container;
+$screen-md-container: ((940/$base)*1em + $grid-gutter-width);
+$container-md: $screen-md-container;
+$screen-lg-container: ((1140/$base)*1em + $grid-gutter-width);
+$container-lg: $screen-lg-container;

@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"info": "Dette er vare nr 1",
+		"price": 139.39,
+		"qty": 1
+	},
+	{
+		"id": 2,
+		"info": "Dette er vare nr 2",
+		"price": 569.39,
+		"qty": 1
+	},
+	{
+		"id": 3,
+		"info": "Dette er vare nr 3",
+		"price": 349,
+		"qty": 1
+	},
+	{
+		"id": 4,
+		"info": "Dette er vare nr 4",
+		"price": 111.39,
+		"qty": 1
+	},
+	{
+		"id": 5,
+		"info": "Dette er vare nr 5",
+		"price": 999.39,
+		"qty": 1
+	}
+]

@@ -1,0 +1,41 @@
+$ver: "v.01";
+
+body:before {
+	background-color: rgba(230, 230, 230, .6);
+	color: black;
+	width: 100%;
+	padding: .2em;
+	content: $ver " break: default " attr(data-debug);
+	position: fixed;
+	bottom: 0;
+	z-index: 999;
+	font-size: 0.8em;
+}
+
+@media (min-width: $screen-xs-min) {
+	body:before {
+		background-color: rgba(130, 230, 230, .6);
+		content: $ver " break: xs default " attr(data-debug);
+	}
+}
+
+@media (min-width: $screen-sm-min) {
+	body:before {
+		background-color: rgba(230, 130, 230, .6);
+		content: $ver " break: sm default " attr(data-debug);
+	}
+}
+
+@media (min-width: $screen-md-min) {
+	body:before {
+		background-color: rgba(230, 230, 130, .6);
+		content: $ver " break: md default " attr(data-debug);
+	}
+}
+
+@media (min-width: $screen-lg-min) {
+	body:before {
+		background-color: rgba(230, 230, 230, .6);
+		content: $ver " break: lg default " attr(data-debug);
+	}
+}
