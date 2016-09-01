@@ -15,6 +15,9 @@ var Total = React.createClass({
 					<td colSpan="4">
 						{this.getTotal()}
 					</td>
+					<td>
+						<button type={"button"} onClick={this.props.sendBasket}>Bestill</button>
+					</td>
 				</tr>
 			</tfoot>
 		)
@@ -50,7 +53,7 @@ var ShoppingItem = React.createClass({
 	render: function() {
 		return (
 			<tr>
-			<td>{this.props.info} {this.props.id}</td>
+			<td>{this.props.info}</td>
 			<td>{this.props.price}</td>
 			<td>
 				<button type={"button"} className={"btn btn-subtract"} onClick={this.props.onQtyChanged.bind(null, this.props.id, 'subtract')}>-</button>
@@ -78,7 +81,6 @@ var ShoppingBasket = React.createClass({
 	      axios
 	        .get(this.props.url)
 	        .then(function(result) {
-	        	console.log(result.data);    
 	          _this.setState({
 	            items: result.data
 	          });
@@ -92,6 +94,9 @@ var ShoppingBasket = React.createClass({
 	      items[cartItemIndex].qty--;
 	    }
 	    this.setState({items});
+	},
+	sendBasket: function() {
+		console.log("send basket ", JSON.stringify(this.state.items));
 	},
 	removeItem: function(id) {
 		var items = this.state.items;
@@ -111,7 +116,7 @@ var ShoppingBasket = React.createClass({
 			</tr>
 			</thead>
 				<AllItems items={this.state.items} onQtyChanged={this.handleQtyChanged} onRemoveItem={this.removeItem} />
-				<Total items={this.state.items} />
+				<Total items={this.state.items} sendBasket={this.sendBasket} />
 			</table>
 
 		)
