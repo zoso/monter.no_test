@@ -77,15 +77,36 @@ var ShoppingBasket = React.createClass({
   	},
   	componentDidMount: function() {
  		var _this = this;
-	    this.serverRequest = 
-	      axios
-	        .get(this.props.url)
-	        .then(function(result) {
-	          _this.setState({
-	            items: result.data
-	          });
-        })
+ 		///api/pages/getchildren/41
+	    // this.serverRequest = 
+	    //   axios
+	    //     .get(this.props.url)
+	    //     .then(function(result) {
+	    //       _this.setState({
+	    //         items: result.data
+	    //       });
+     //    })
+		/*this.serverRequest = $.get(this.props.url, function (result) {
+	      this.setState({
+	        items: result.data
+	      });
+	    }.bind(this));*/
+		 this.serverRequest = $.ajax({
+		      url: this.props.url,
+		      dataType: 'json',
+		      cache: false,
+		      success: function(data) {
+		        this.setState({items: data});
+		      }.bind(this),
+		      error: function(xhr, status, err) {
+		        console.error(this.props.url, status, err.toString());
+		      }.bind(this)
+		    });
   	},
+  	componentWillUnmount: function() {
+    	this.serverRequest.abort();
+  	},
+
   	handleQtyChanged: function(cartItemIndex, direction) {
   		var items = this.state.items;
 	    if (direction === 'add') {
